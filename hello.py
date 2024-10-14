@@ -1,2 +1,2 @@
-print("Hello world")
-print('Hello teacher')
+echo 'Hello from sh!'
+echo 'this is a test'
